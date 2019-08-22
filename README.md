@@ -1,1 +1,1 @@
-# Firecode
+# Firecode exercises
